@@ -28,7 +28,7 @@ export const CategoryRow = ({ category  } : {category: Category}) => {
                 <img
                   key={key}
                   className="w-10 h-10 rounded-full"
-                  src={`/${PLAYERS[key].photo}`}
+                  src={`${PLAYERS[key].photo}`}
                 />
               ))}
             </div>
