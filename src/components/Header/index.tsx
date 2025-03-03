@@ -4,7 +4,7 @@ export const Header = () => {
     <div className="flex justify-center">
       <img 
         className="max-h-64"
-        src="/cabecera-oscars.jpg" 
+        src="cabecera-oscars.jpg" 
       />
     </div>
   )

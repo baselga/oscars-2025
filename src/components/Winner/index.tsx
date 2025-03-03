@@ -31,7 +31,7 @@ export const Winner = () => {
   return (
     <div className="py-2 px-4 w-full max-w-5xl bg-amber-950 rounded-lg mb-8">
       <h2 className="text-4xl font-bold text-amber-400 text-center pb-2">
-        ¡¡Ganador!!
+        Ganador de los Oscars 2025
       </h2>
       <div className="flex flex-wrap gap-4 py-2 items-center justify-center">
         <img
